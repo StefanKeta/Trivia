@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Trivia</string>
+    <string name="title">Trivia</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next Button</string>
+    <string name="prev_button">Previous button</string>
+    <string name="card_view_question">THIS SHOULD BE A QUESTION</string>
+    <string name="false_btn">False</string>
+    <string name="correct" type="id">Correct!</string>
+    <string name="incorrect" type="id">Incorrect</string>
+    <string name="app_score" > 0 </string>
+    <string name="high_score">"HighScore : "</string>
+    <string name="button_share">Share</string>
+</resources>
